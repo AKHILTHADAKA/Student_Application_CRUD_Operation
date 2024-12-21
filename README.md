@@ -51,7 +51,7 @@ Get :
 # Links :
 
 
-### [GitHub]([https://github.com/AKHILTHADAKA?tab=repositories])
+### [GitHub]( https://github.com/AKHILTHADAKA?tab=repositories )
 
 <br/>
 
