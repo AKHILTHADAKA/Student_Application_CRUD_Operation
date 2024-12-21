@@ -1,20 +1,20 @@
 # **** CRUD OPERATION OF STUDENT APPLICATION ****
 This CRUD operation for a Student application is a simple system developed using Java and Spring Boot. It utilizes Spring Data JPA for database interaction with MySQL. The application allows basic operations like Create, Read, Update, and Delete (CRUD) for managing student data efficiently.
 
-id (Long): A unique identifier for each student.
-name (String): The name of the student.
-email (String): The email address of the student.
-course (String): The course the student is enrolled in.
+-id (Long): A unique identifier for each student.
+-name (String): The name of the student.
+-email (String): The email address of the student.
+-course (String): The course the student is enrolled in.
 We'll build a RESTful API that allows clients to interact with student data by performing CRUD operations.
 
 Steps to Create the Project
 1. Set Up the Project
 We'll start by setting up the Spring Boot project with dependencies.
 
-Spring Web: To build the RESTful API.
-Spring Data JPA: To interact with the database.
-H2 Database: A simple, in-memory database for testing.
-Spring Boot DevTools: For faster development (optional).
+-Spring Web: To build the RESTful API.
+-Spring Data JPA: To interact with the database.
+-MySql Database: A simple, in-memory database for testing.
+-Spring Boot DevTools: For faster development (optional).
 
 You can generate the project using Spring Initializr (https://start.spring.io/), or you can manually add the dependencies to your pom.xml file.
 
@@ -26,10 +26,10 @@ You can generate the project using Spring Initializr (https://start.spring.io/),
 2. Create the Controller Layer
 The controller layer handles HTTP requests and responses. We will expose endpoints for the following operations:
 
-POST: Create a new student
-GET: Retrieve a list of all students or a single student by ID
-PUT: Update an existing student's details
-DELETE: Delete a student by ID
+-POST: Create a new student
+-GET: Retrieve a list of all students or a single student by ID
+-PUT: Update an existing student's details
+-DELETE: Delete a student by ID
 #CRUD OPERATION :-
 
 Post :
