@@ -51,14 +51,6 @@ Get :
 # Links :
 
 
-### [GitHub]( https://github.com/AKHILTHADAKA?tab=repositories )
+### [GitHub]( https://github.com/AKHILTHADAKA?tab=repositories )   &&    ### [Linked in]( https://www.linkedin.com/in/akhilthadaka77/ )  &&   ### [Code-Pen]( https://codepen.io/your-work )
 
-<br/>
 
-### [Linked in]([https://www.linkedin.com/in/akhilthadaka77/])
-
-<br/>
-
-### [Code-Pen]({https://codepen.io/your-work])
-
-<br/>
