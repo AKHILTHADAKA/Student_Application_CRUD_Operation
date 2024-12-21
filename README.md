@@ -7,8 +7,8 @@ This CRUD operation for a Student application is a simple system developed using
 -course (String): The course the student is enrolled in.<br/>
 We'll build a RESTful API that allows clients to interact with student data by performing CRUD operations.
 
-Steps to Create the Project
-1. Set Up the Project
+#Steps to Create the Project
+##1. Set Up the Project
 We'll start by setting up the Spring Boot project with dependencies.
 
 -Spring Web: To build the RESTful API.<br/>
@@ -22,8 +22,8 @@ You can generate the project using Spring Initializr (https://start.spring.io/),
 
 [![student2.png](https://i.postimg.cc/y6ZXKssT/student2.png)](https://postimg.cc/F1hJgtff)
 #
-
-2. Create the Controller Layer
+#
+##2. Create the Controller Layer
 The controller layer handles HTTP requests and responses. We will expose endpoints for the following operations:
 
 -POST: Create a new student<br/>
