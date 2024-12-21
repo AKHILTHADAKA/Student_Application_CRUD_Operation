@@ -1,0 +1,7 @@
+com\student\example\StudentRepository.class
+com\student\example\StudentController.class
+com\student\example\StudentService.class
+com\student\example\StudentServiceImpl.class
+com\student\example\DemoApplication.class
+com\student\example\Student.class
+com\student\example\web\StudentWebController.class
